@@ -1,11 +1,9 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Skills extends Component {
-    render() { 
-        return (  
-
-        );
-    }
+  render() {
+    return <section></section>;
+  }
 }
- 
+
 export default Skills;
